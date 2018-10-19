@@ -1,6 +1,6 @@
-# Kaggle 2 Churn Prediction
+# Churn Prediction
 
-
+Kaggle Competition. The algorhtms aims at predicting whether a user will churn after his subscription expires.
 
 ## Requirements
 XGBoost
